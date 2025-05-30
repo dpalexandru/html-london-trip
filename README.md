@@ -1,11 +1,12 @@
-London Trip
+My London Trip
 ===
 
-## Linguaggio html
+# Esercizio in HTML
+In questo primo esercizio in HTML, ho mosso i primi passi in questo linguaggio di markup.
+In particolora ho utilizzato i primi tag e utilizzato i primi tag semantici come header, main e footer.
 
 
-
-## Directory Hierarchy
+# Directory Hierarchy
 ```
 |—— .DS_Store
 |—— img
@@ -15,5 +16,5 @@ London Trip
 |—— index.html
 ```
 
-## Consegna
-30/05/2025
+# Consegna
+Esercizio consegnato il 30/05/2025.
